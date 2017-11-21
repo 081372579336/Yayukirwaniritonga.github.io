@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+Nama  : Yayuk Irwani Ritonga
+NIM   : 11553204755
 
 You can use the [editor on GitHub](https://github.com/081372579336/Yayukirwaniritonga.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
